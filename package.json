@@ -5,8 +5,8 @@
 , "author" : "Mikeal Rogers <mikeal.rogers@gmail.com>"
 , "engines" : ["node >= 0.1.95"]
 , "main" : "./main"
-, "dependencies": 
-  { "watch": "*"
+, "dependencies":
+  { "watch": "git@github.com:mikeal/watch.git"
   , "request": "*"
   , "http-proxy": "*"
   , "connect": "*"
