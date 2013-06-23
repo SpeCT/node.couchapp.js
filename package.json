@@ -6,7 +6,7 @@
 , "engines" : ["node >= 0.1.95"]
 , "main" : "./main"
 , "dependencies":
-  { "watch": "git@github.com:mikeal/watch.git"
+  { "watch": "git://github.com/mikeal/watch.git"
   , "request": "*"
   , "http-proxy": "*"
   , "connect": "*"
